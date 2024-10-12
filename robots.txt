@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rubilavi.github.io/sitemap.html.gz
+Sitemap: https://rubilavi.github.io/app/sitemap.html.gz
+Sitemap: https://rubilavi.github.io/assets/sitemap.html.gz
+Sitemap: https://rubilavi.github.io/css/sitemap.html.gz
+Sitemap: https://rubilavi.github.io/includes/sitemap.html.gz
+Sitemap: https://rubilavi.github.io/item/sitemap.html.gz
+Sitemap: https://rubilavi.github.io/src/sitemap.html.gz
